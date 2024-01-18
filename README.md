@@ -1,12 +1,13 @@
 # Shadcn UI Integration
 
-## Visão Geral
+# Visão Geral
 Bem-vindo ao repositório de Integração do Shadcn UI! Este projeto foi criado para incorporar de maneira eficiente o sistema de design Shadcn UI em seu código. Utilizando Vite, React, Tailwind CSS e ApexCharts, nosso objetivo é destacar o poder e as características exclusivas do Shadcn UI ao projetar uma interface inspirada no próprio site do Shadcn.
 
+# Preview
 ![Preview](https://imgur.com/0D5eJTf.png)
 
 
-## Destaques do Projeto
+# Destaques do Projeto
 
 - **Integração do Shadcn UI:** Explore a integração dos componentes do Shadcn UI para aprimorar a estética visual e a funcionalidade de sua aplicação.
 
@@ -16,7 +17,7 @@ Bem-vindo ao repositório de Integração do Shadcn UI! Este projeto foi criado 
 
 - **Visualização de Dados com ApexCharts:** Incorpore gráficos interativos e dinâmicos em sua interface usando o ApexCharts para uma experiência de usuário mais rica.
 
-## Como Começar
+# Como Começar
 
 Siga estes passos para configurar a Integração do Shadcn UI em sua máquina local:
 
@@ -38,7 +39,7 @@ Siga estes passos para configurar a Integração do Shadcn UI em sua máquina lo
    npm install
    ```
 
-## Scripts Disponíveis
+# Scripts Disponíveis
 
 ### `npm run dev`
 
@@ -72,25 +73,25 @@ Visualize a compilação de produção localmente:
 npm run preview
 ```
 
-## Estrutura do Projeto
+# Estrutura do Projeto
 
 - `src/`: Contém o código-fonte da aplicação.
 - `public/`: Ativos estáticos e modelo HTML.
 - `tsconfig.json`: Arquivo de configuração TypeScript.
 - `vite.config.js`: Arquivo de configuração Vite.
 
-## Showcase de Recursos do Shadcn UI
+# Showcase de Recursos do Shadcn UI
 
 Experimente as características únicas e os elementos de design do Shadcn UI por meio de nossa interface inspirada no site do Shadcn.
 
-## Contribuições
+# Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para relatar problemas, sugerir melhorias ou enviar pull requests para aprimorar esta integração.
 
-## Restrições de Uso
+# Restrições de Uso
 
 Este projeto destina-se apenas a uso não comercial. A distribuição ou revenda comercial é estritamente proibida.
 
-## Licença
+# Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
