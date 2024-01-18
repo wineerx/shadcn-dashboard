@@ -1,10 +1,10 @@
 # Shadcn UI Integration
 
 ## Visão Geral
+Bem-vindo ao repositório de Integração do Shadcn UI! Este projeto foi criado para incorporar de maneira eficiente o sistema de design Shadcn UI em seu código. Utilizando Vite, React, Tailwind CSS e ApexCharts, nosso objetivo é destacar o poder e as características exclusivas do Shadcn UI ao projetar uma interface inspirada no próprio site do Shadcn.
 
 ![Preview](https://imgur.com/0D5eJTf.png)
 
-Bem-vindo ao repositório de Integração do Shadcn UI! Este projeto foi criado para incorporar de maneira eficiente o sistema de design Shadcn UI em seu código. Utilizando Vite, React, Tailwind CSS e ApexCharts, nosso objetivo é destacar o poder e as características exclusivas do Shadcn UI ao projetar uma interface inspirada no próprio site do Shadcn.
 
 ## Destaques do Projeto
 
