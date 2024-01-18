@@ -118,6 +118,7 @@ function App() {
                   <div className='flex flex-wrap'>
                     <Card className='flex flex-col gap-2 w-[671px] h-[128px]'>
                       <Typography variant={'h3'}>Overview</Typography>
+                      <ApexChart />
                     </Card>
                   </div>
 
