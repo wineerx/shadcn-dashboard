@@ -13,6 +13,8 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 
+import { Navigation } from '@/components/Navigation';
+
 import { DollarSign, UsersRound, CreditCard, Activity } from 'lucide-react';
 
 
@@ -31,6 +33,16 @@ function App() {
               Alicia Koch
             </Button>
 
+              <Navigation.Root>
+                <Navigation.Link active path='/'>Overview</Navigation.Link>
+                <Navigation.Link path='/customers'>Customers</Navigation.Link>
+                <Navigation.Link path='/products'>Products</Navigation.Link>
+                <Navigation.Link path='/settings'>Settings</Navigation.Link>
+              </Navigation.Root>
+            </div>
+
+
+            <div className='flex items-center gap-4'>
             <Input type="email" placeholder="Email" />
           </header>
           <main className='w-full h-full flex-1 space-y-4 p-8 pt-6'>
