@@ -24,7 +24,7 @@ Siga estes passos para configurar a Integração do Shadcn UI em sua máquina lo
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-nome-de-usuário/shadcn-ui-integration.git
+   git clone https://github.com/wineerx/shadcn-dashboard.git
    ```
 
 2. Navegue até o diretório do projeto:
