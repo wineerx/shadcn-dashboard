@@ -27,14 +27,15 @@ interface TypographyProps
   extends VariantProps<typeof typographyVariants> {
   asChild?: boolean;
   children?: React.ReactNode;
+  className?: string
 }
 
 const Typography = React.forwardRef<HTMLParagraphElement, TypographyProps>(
-  ({ variant, asChild = false, children, ...props }, ref) => { // Include children in the destructuring
+  ({ className,variant, asChild = false, children, ...props }, ref) => { // Include children in the destructuring
     const Comp = asChild ? Slot : "p";
     return (
       <Comp
-        className={cn(typographyVariants({ variant }))}
+        className={cn(typographyVariants({ variant,className }))}
         ref={ref}
         {...props}
       >
