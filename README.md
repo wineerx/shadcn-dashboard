@@ -1,6 +1,6 @@
 # Shadcn UI Integration
 
-![Preview](https://imgur.com/0D5eJTf)
+![Preview](https://imgur.com/0D5eJTf.png)
 
 ## Visão Geral
 
