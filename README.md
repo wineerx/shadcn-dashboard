@@ -98,4 +98,4 @@ Este projeto destina-se apenas a uso não comercial. A distribuição ou revenda
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 [npm-image]:  https://img.shields.io/badge/native-suporte-blue?logo=discord
-[npm-url]: https://discord.gg/naativeseat
+[npm-url]: https://discord.gg/nativeseat
