@@ -1,10 +1,11 @@
 # Shadcn UI Integration
-
+[![Discord][npm-image]][npm-url]
 # Visão Geral
 Bem-vindo ao repositório de Integração do Shadcn UI! Este projeto foi criado para incorporar de maneira eficiente o sistema de design Shadcn UI em seu código. Utilizando Vite, React, Tailwind CSS e ApexCharts, nosso objetivo é destacar o poder e as características exclusivas do Shadcn UI ao projetar uma interface inspirada no próprio site do Shadcn.
 
 # Preview
 ![Preview](https://imgur.com/0D5eJTf.png)
+
 
 
 # Destaques do Projeto
@@ -95,3 +96,6 @@ Este projeto destina-se apenas a uso não comercial. A distribuição ou revenda
 # Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+[npm-image]:  https://img.shields.io/badge/native-suporte-blue?logo=discord
+[npm-url]: https://discord.gg/naativeseat
